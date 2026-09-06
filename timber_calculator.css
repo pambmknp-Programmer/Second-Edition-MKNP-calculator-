@@ -63,7 +63,7 @@ label{display:flex;flex-direction:column;
 .mknp {
     width: 80px;
     float: right ;
-    display: inline;
+    display: none;
     margin: 0%;
     padding: 0px;
    
